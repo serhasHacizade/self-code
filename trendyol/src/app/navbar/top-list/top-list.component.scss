@@ -1,0 +1,19 @@
+.top-list {
+    display: flex;
+    justify-content: flex-end;
+    max-width: 1200px;
+    margin: 0 auto;
+    height: 25px;
+    ul {
+        display: flex;
+        height: 17px;
+        
+        a {
+            text-decoration: none;
+            margin-right: 30px;
+            font-size: 12px;
+            height: 16px;
+            color: #999999;
+        }
+    }
+}
