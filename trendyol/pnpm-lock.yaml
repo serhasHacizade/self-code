@@ -35,6 +35,15 @@ importers:
       '@ng-bootstrap/ng-bootstrap':
         specifier: 17.0.0
         version: 17.0.0(@angular/common@18.0.6(@angular/core@18.0.6(rxjs@7.8.1)(zone.js@0.14.7))(rxjs@7.8.1))(@angular/core@18.0.6(rxjs@7.8.1)(zone.js@0.14.7))(@angular/forms@18.0.6(@angular/common@18.0.6(@angular/core@18.0.6(rxjs@7.8.1)(zone.js@0.14.7))(rxjs@7.8.1))(@angular/core@18.0.6(rxjs@7.8.1)(zone.js@0.14.7))(@angular/platform-browser@18.0.6(@angular/animations@18.0.6(@angular/core@18.0.6(rxjs@7.8.1)(zone.js@0.14.7)))(@angular/common@18.0.6(@angular/core@18.0.6(rxjs@7.8.1)(zone.js@0.14.7))(rxjs@7.8.1))(@angular/core@18.0.6(rxjs@7.8.1)(zone.js@0.14.7)))(rxjs@7.8.1))(@angular/localize@18.0.6(@angular/compiler-cli@18.0.6(@angular/compiler@18.0.6(@angular/core@18.0.6(rxjs@7.8.1)(zone.js@0.14.7)))(typescript@5.4.5))(@angular/compiler@18.0.6(@angular/core@18.0.6(rxjs@7.8.1)(zone.js@0.14.7))))(@popperjs/core@2.11.8)(rxjs@7.8.1)
+      '@ng-icons/core':
+        specifier: ^28.1.0
+        version: 28.1.0
+      '@ng-icons/heroicons':
+        specifier: ^28.1.0
+        version: 28.1.0
+      '@ng-icons/lucide':
+        specifier: ^28.1.0
+        version: 28.1.0
       '@popperjs/core':
         specifier: ^2.11.8
         version: 2.11.8
@@ -1282,6 +1291,15 @@ packages:
       '@angular/localize': ^18.0.0
       '@popperjs/core': ^2.11.8
       rxjs: ^6.5.3 || ^7.4.0
+
+  '@ng-icons/core@28.1.0':
+    resolution: {integrity: sha512-Wu4jAKJUOgefkVX0X2qfh7aNx483vF0WT15QZW606iWaMzTuwjvQcS8BUAsQP/OyDjgW+bFmoIALJ7CwsSNa/w==}
+
+  '@ng-icons/heroicons@28.1.0':
+    resolution: {integrity: sha512-HBQTRZTpJ1MmNLXAX5E3FgvSnCSrzgmS2Kb1SBaXgOkEWqkwjmZZZiS/vFc7ns5T8gq8NdVGeYYQGOhD4HRiqA==}
+
+  '@ng-icons/lucide@28.1.0':
+    resolution: {integrity: sha512-kNz0OwIQFJmEtJzGeKlYrtDmVCQdbdbwsLKGpNZZRLqgd5Qq31CszDhnJnBb1A7OZI+Wsd6PMh3iYyOFOSi1Gg==}
 
   '@ngtools/webpack@18.0.7':
     resolution: {integrity: sha512-lXTy+SpLpoO5verX7TGTxV3sbD9MGWxMwJGdXA7DwZcVtDe5t38ZntzJUm7OpxWjRZ/OJn6JLmURNLcVNHzp9g==}
@@ -5456,6 +5474,18 @@ snapshots:
       '@angular/localize': 18.0.6(@angular/compiler-cli@18.0.6(@angular/compiler@18.0.6(@angular/core@18.0.6(rxjs@7.8.1)(zone.js@0.14.7)))(typescript@5.4.5))(@angular/compiler@18.0.6(@angular/core@18.0.6(rxjs@7.8.1)(zone.js@0.14.7)))
       '@popperjs/core': 2.11.8
       rxjs: 7.8.1
+      tslib: 2.6.3
+
+  '@ng-icons/core@28.1.0':
+    dependencies:
+      tslib: 2.6.3
+
+  '@ng-icons/heroicons@28.1.0':
+    dependencies:
+      tslib: 2.6.3
+
+  '@ng-icons/lucide@28.1.0':
+    dependencies:
       tslib: 2.6.3
 
   '@ngtools/webpack@18.0.7(@angular/compiler-cli@18.0.6(@angular/compiler@18.0.6(@angular/core@18.0.6(rxjs@7.8.1)(zone.js@0.14.7)))(typescript@5.4.5))(typescript@5.4.5)(webpack@5.91.0(esbuild@0.21.3))':
