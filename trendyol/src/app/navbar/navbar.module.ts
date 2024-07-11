@@ -15,9 +15,10 @@ import {
   heroHeartSolid,
   heroShoppingCartSolid,
 } from '@ng-icons/heroicons/solid';
+import { NavigationComponent } from './navigation/navigation.component';
 
 @NgModule({
-  declarations: [NavbarComponent, TopListComponent, HeaderComponent],
+  declarations: [NavbarComponent, TopListComponent, HeaderComponent, NavigationComponent],
   imports: [
     CommonModule,
     NgIconsModule.withIcons({

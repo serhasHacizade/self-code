@@ -1,0 +1,391 @@
+{
+  "navigation": [
+    {
+      "title": "Kadın",
+      "data": [
+        {
+          "sub-title": "Giyim",
+          "sub-data": [
+            "Elbise",
+            "Tişört",
+            "Gömlek",
+            "Kot Pantolon",
+            "Kot Ceket",
+            "Pantolon",
+            "Mont",
+            "Ceket",
+            "Etek",
+            "Kazak",
+            "Tesettür",
+            "Büyük Beden",
+            "Trençkot",
+            " Yağmurluk & Rüzgarlık",
+            "Sweatshirt",
+            "Kaban",
+            "Hırka",
+            "Palto"
+          ]
+        },
+        {
+          "sub-title": "Ayakkabı",
+          "sub-data": [
+            "Topuklu Ayakkabı",
+            "Sneaker",
+            "Günlük Ayakkabı",
+            "Babet",
+            "Sandalet",
+            "Bot",
+            "Çizme",
+            "Kar Botu",
+            "Loafer"
+          ]
+        },
+        {
+          "sub-title": "Aksesuar & Çanta",
+          "sub-data": [
+            "Çanta",
+            "Saat",
+            "Takı",
+            "Cüzdan",
+            "Atkı",
+            "Bere",
+            "Eldiven",
+            "Kemer",
+            "Şal"
+          ]
+        },
+        {
+          "sub-title": "Çanta",
+          "sub-data": [
+            "Omuz Çantası",
+            "Sırt Çantası",
+            "Bel Çantası",
+            "Okul Çantası",
+            "Laptop Çantası",
+            "Portföy",
+            "Postacı Çantası",
+            "Kanvas Çanta",
+            "Makyaj Çantası",
+            "Abiye Çanta",
+            "Çapraz Çanta",
+            "Bez Çanta",
+            "Anne Bebek Çantası",
+            "Evrak Çantası",
+            "Tote Çanta",
+            "Beslenme Çantası",
+            "Kartlık",
+            "Cüzdan",
+            "Kadın Spor Çantası"
+          ]
+        },
+        {
+          "sub-title": "İç Giyim",
+          "sub-data": [
+            "Pijama Takımı",
+            "Gecelik",
+            "Sütyen",
+            "İç Çamaşırı Takımları",
+            "Fantezi Giyim",
+            "Çorap",
+            "Korse",
+            "Külot",
+            "Büstiyer",
+            "Bralet",
+            "Atlet & Body",
+            "Kombinezon",
+            "Jartiyer"
+          ]
+        },
+        {
+          "sub-title": "Lüks",
+          "sub-data": ["Lüks Çanta", "Lüks Giyim", "Lüks Ayakkabı"]
+        },
+        {
+          "sub-title": "Kozmetik",
+          "sub-data": [
+            "Parfüm",
+            "Göz Makyajı",
+            "Cilt Bakım",
+            "Saç Bakımı",
+            "Makyaj",
+            "Ağız Bakım",
+            "Cinsel Sağlık",
+            "Vücut Bakım",
+            "Hijyenik Ped",
+            "Duş Jeli & Kremleri",
+            "Epilasyon Ürünleri",
+            "Ruj",
+            "Dudak Nemlendirici",
+            "Aydınlatıcı & Highlighter",
+            "Eyeliner",
+            "Ten Makyajı",
+            "Manikür & Pedikür",
+            "BB & CC Krem",
+            "El Kremi",
+            "Yüz Nemlendirici"
+          ]
+        },
+        {
+          "sub-title": "Spor & Outdoor",
+          "sub-data": [
+            "Sweatshirt",
+            "Tişört",
+            "Spor Sütyeni",
+            "Tayt",
+            "Eşofman",
+            "Koşu Ayakkabısı",
+            "Spor Çantası",
+            "Spor Ekipmanları",
+            "Outdoor Ayakkabıları",
+            "Kar Botu",
+            "Outdoor Ekipmanları",
+            "Sporcu Besinleri",
+            "Sporcu Ekipmanları",
+            "Outdoor Çanta",
+            "Kayak Malzemeleri",
+            "Uyku Tulumu",
+            "Mat",
+            "Dağcılık",
+            "Kadın Spor Ceket",
+            "Spor Ayakkabı"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Erkek",
+      "data": [
+        {
+          "sub-title": "Giyim",
+          "sub-data": [
+            "Tişört",
+            "Şort",
+            "Gömlek",
+            "Eşofman",
+            "Pantolon",
+            "Ceket",
+            "Kot Pantolon",
+            "Yelek",
+            "Kazak",
+            "Mont",
+            "Takım Elbise",
+            "Sweatshirt",
+            "Deri Mont",
+            "Kaban",
+            "Hırka",
+            "Trençkot",
+            "Palto",
+            "Yağmurluk",
+            "Blazer",
+            "Polar"
+          ]
+        },
+        {
+          "sub-title": "Ayakkabı",
+          "sub-data": [
+            "Spor Ayakkabı",
+            "Günlük Ayakkabı",
+            "Yürüyüş Ayakkabısı",
+            "Krampon",
+            "Sneaker",
+            "Klasik",
+            "Bot",
+            "Kar Botu",
+            "Deri Ayakkabı",
+            "Loafer",
+            "Ev Terliği",
+            "Koşu Ayakkabısı",
+            "Çizme"
+          ]
+        },
+        {
+          "sub-title": "Kişisel Bakım",
+          "sub-data": [
+            "Parfüm",
+            "Cinsel Sağlık",
+            "Tıraş Sonrası Ürünler",
+            "Tıraş Bıçağı",
+            "Deodorant"
+          ]
+        },
+        {
+          "sub-title": "Çanta",
+          "sub-data": [
+            "Sırt Çantası",
+            "Spor Çanta",
+            "Laptop Çantası",
+            "Valiz & Bavul",
+            "Postacı Çantası",
+            "Bel Çantası",
+            "Bel Çanta",
+            "Evrak Çantası",
+            "Cüzdan"
+          ]
+        },
+        {
+          "sub-title": "Büyük Beden",
+          "sub-data": [
+            "Büyük Beden Sweatshirt",
+            "Büyük Beden Tshirt",
+            "Büyük Beden Gömlek",
+            "Büyük Beden Pantolon",
+            "Büyük Beden Mont",
+            "Büyük Beden Kazak",
+            "Büyük Beden Hırka",
+            "Büyük Beden Kaban",
+            "Büyük Beden Eşofman Altı"
+          ]
+        },
+        {
+          "sub-title": "Saat & Aksesuar",
+          "sub-data": [
+            "Saat",
+            "Güneş Gözlüğü",
+            "Cüzdan",
+            "Kemer",
+            "Çanta",
+            "Şapka",
+            "Kartlık",
+            "Valiz",
+            "Kravat",
+            "Boyunluk",
+            "Atkı",
+            "Bere",
+            "Eldiven"
+          ]
+        },
+        {
+          "sub-title": "İç Giyim",
+          "sub-data": ["Boxer", "Çorap", "Pijama", "Atlet", "İçlik"]
+        },
+        {
+          "sub-title": "Spor & Outdoor",
+          "sub-data": [
+            "Eşofman",
+            "Spor Ayakkabı",
+            "T-shirt",
+            "Sweatshirt",
+            "Forma",
+            "Spor Çorap",
+            "Spor Giyim",
+            "Outdoor Ayakkabı",
+            "Outdoor Ekipmanları",
+            "Sporcu Besinleri",
+            "Sporcu Aksesuarları",
+            "Sneaker",
+            "Scooter",
+            "Bisiklet",
+            "Dalış Malzemeleri",
+            "Rüzgarlık",
+            "Aksiyon Kamerası",
+            "Kamp Malzemeleri"
+          ]
+        },
+        {
+          "sub-title": "Elektronik",
+          "sub-data": [
+            "Tıraş Makinesi",
+            "Cep Telefonu",
+            "Akıllı Saat",
+            "Akıllı Bileklik",
+            "Laptop",
+            "Oyun & Konsollar",
+            "Elektrikli Bisiklet",
+            "E-pin & Cüzdan Kodu",
+            "Playstation 5",
+            "Hediye Kartları",
+            "Bluetooth Kulaklık",
+            "Gaming PC",
+            "Oyuncu Koltuğu",
+            "Xbox Series X",
+            "Drone"
+          ]
+        },
+        {
+          "sub-title": "Lüks & Designer",
+          "sub-data": ["Lüks Giyim", "Lüks Ayakkabı", "Lüks Çanta"]
+        }
+      ]
+    },
+    {
+      "title": "Anne & Çocuk",
+      "data": [
+        {
+          "sub-title": "Bebek",
+          "sub-data": [
+            "Bebek Takımları",
+            "Ayakkabı",
+            "Hastane Çıkışı",
+            "Yenidoğan Kıyafetleri",
+            "Tulum",
+            "Body & Zıbın",
+            "Tişört & Atlet",
+            "Elbise",
+            "Şort",
+            "Bebek Patiği",
+            "Hırka",
+            "Battaniye",
+            "Alt Üst Takım",
+            "Tişört",
+            "Etek",
+            "Çorap",
+            "Şapka",
+            "Eldiven",
+            "Eşofman",
+            "Bere"
+          ]
+        },
+        {
+          "sub-title": "Kız Çocuk",
+          "sub-data": [
+            "Elbise",
+            "Sweatshirt",
+            "Spor Ayakkabı",
+            "Eşofman",
+            "İç Giyim & Pijama",
+            "Tişört & Atlet",
+            "Tayt",
+            "Günlük Ayakkabı",
+            "Şort",
+            "Mont",
+            "Çocuk Oyun Evi",
+            "Oyuncak Bebek",
+            "Oyuncak Mutfak",
+            "Kaban",
+            "Abiye & Elbise",
+            "Ceket",
+            "Pantolon",
+            "Kazak",
+            "Bot",
+            "Şapka & Bere & Eldiven"
+          ]
+        },
+        {
+          "sub-title": "Erkek Çocuk",
+          "sub-data": [
+            "Sweatshirt",
+            "Spor Ayakkabı",
+            "Eşofman",
+            "İç Giyim & Pijama",
+            "Tişört & Atlet",
+            "Günlük Ayakkabı",
+            "Okul Çantası",
+            "Şort",
+            "Gömlek",
+            "Mont",
+            "Oyuncak Traktör",
+            "Akülü Araba",
+            "Kumandalı Araba",
+            "Bisiklet",
+            "Boxer",
+            "İçlik",
+            "Bot",
+            "Krampon",
+            "Şapka & Bere & Eldiven",
+            "Takım Elbise"
+          ]
+        }
+      ]
+    }
+  ]
+}
