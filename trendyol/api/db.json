@@ -4,8 +4,8 @@
       "title": "Kadın",
       "data": [
         {
-          "sub-title": "Giyim",
-          "sub-data": [
+          "subTitle": "Giyim",
+          "subData": [
             "Elbise",
             "Tişört",
             "Gömlek",
@@ -27,8 +27,8 @@
           ]
         },
         {
-          "sub-title": "Ayakkabı",
-          "sub-data": [
+          "subTitle": "Ayakkabı",
+          "subData": [
             "Topuklu Ayakkabı",
             "Sneaker",
             "Günlük Ayakkabı",
@@ -41,8 +41,8 @@
           ]
         },
         {
-          "sub-title": "Aksesuar & Çanta",
-          "sub-data": [
+          "subTitle": "Aksesuar & Çanta",
+          "subData": [
             "Çanta",
             "Saat",
             "Takı",
@@ -55,8 +55,8 @@
           ]
         },
         {
-          "sub-title": "Çanta",
-          "sub-data": [
+          "subTitle": "Çanta",
+          "subData": [
             "Omuz Çantası",
             "Sırt Çantası",
             "Bel Çantası",
@@ -79,8 +79,8 @@
           ]
         },
         {
-          "sub-title": "İç Giyim",
-          "sub-data": [
+          "subTitle": "İç Giyim",
+          "subData": [
             "Pijama Takımı",
             "Gecelik",
             "Sütyen",
@@ -97,12 +97,12 @@
           ]
         },
         {
-          "sub-title": "Lüks",
-          "sub-data": ["Lüks Çanta", "Lüks Giyim", "Lüks Ayakkabı"]
+          "subTitle": "Lüks",
+          "subData": ["Lüks Çanta", "Lüks Giyim", "Lüks Ayakkabı"]
         },
         {
-          "sub-title": "Kozmetik",
-          "sub-data": [
+          "subTitle": "Kozmetik",
+          "subData": [
             "Parfüm",
             "Göz Makyajı",
             "Cilt Bakım",
@@ -126,8 +126,8 @@
           ]
         },
         {
-          "sub-title": "Spor & Outdoor",
-          "sub-data": [
+          "subTitle": "Spor & Outdoor",
+          "subData": [
             "Sweatshirt",
             "Tişört",
             "Spor Sütyeni",
@@ -156,8 +156,8 @@
       "title": "Erkek",
       "data": [
         {
-          "sub-title": "Giyim",
-          "sub-data": [
+          "subTitle": "Giyim",
+          "subData": [
             "Tişört",
             "Şort",
             "Gömlek",
@@ -181,8 +181,8 @@
           ]
         },
         {
-          "sub-title": "Ayakkabı",
-          "sub-data": [
+          "subTitle": "Ayakkabı",
+          "subData": [
             "Spor Ayakkabı",
             "Günlük Ayakkabı",
             "Yürüyüş Ayakkabısı",
@@ -199,8 +199,8 @@
           ]
         },
         {
-          "sub-title": "Kişisel Bakım",
-          "sub-data": [
+          "subTitle": "Kişisel Bakım",
+          "subData": [
             "Parfüm",
             "Cinsel Sağlık",
             "Tıraş Sonrası Ürünler",
@@ -209,8 +209,8 @@
           ]
         },
         {
-          "sub-title": "Çanta",
-          "sub-data": [
+          "subTitle": "Çanta",
+          "subData": [
             "Sırt Çantası",
             "Spor Çanta",
             "Laptop Çantası",
@@ -223,8 +223,8 @@
           ]
         },
         {
-          "sub-title": "Büyük Beden",
-          "sub-data": [
+          "subTitle": "Büyük Beden",
+          "subData": [
             "Büyük Beden Sweatshirt",
             "Büyük Beden Tshirt",
             "Büyük Beden Gömlek",
@@ -237,8 +237,8 @@
           ]
         },
         {
-          "sub-title": "Saat & Aksesuar",
-          "sub-data": [
+          "subTitle": "Saat & Aksesuar",
+          "subData": [
             "Saat",
             "Güneş Gözlüğü",
             "Cüzdan",
@@ -255,12 +255,12 @@
           ]
         },
         {
-          "sub-title": "İç Giyim",
-          "sub-data": ["Boxer", "Çorap", "Pijama", "Atlet", "İçlik"]
+          "subTitle": "İç Giyim",
+          "subData": ["Boxer", "Çorap", "Pijama", "Atlet", "İçlik"]
         },
         {
-          "sub-title": "Spor & Outdoor",
-          "sub-data": [
+          "subTitle": "Spor & Outdoor",
+          "subData": [
             "Eşofman",
             "Spor Ayakkabı",
             "T-shirt",
@@ -282,8 +282,8 @@
           ]
         },
         {
-          "sub-title": "Elektronik",
-          "sub-data": [
+          "subTitle": "Elektronik",
+          "subData": [
             "Tıraş Makinesi",
             "Cep Telefonu",
             "Akıllı Saat",
@@ -302,8 +302,8 @@
           ]
         },
         {
-          "sub-title": "Lüks & Designer",
-          "sub-data": ["Lüks Giyim", "Lüks Ayakkabı", "Lüks Çanta"]
+          "subTitle": "Lüks & Designer",
+          "subData": ["Lüks Giyim", "Lüks Ayakkabı", "Lüks Çanta"]
         }
       ]
     },
@@ -311,8 +311,8 @@
       "title": "Anne & Çocuk",
       "data": [
         {
-          "sub-title": "Bebek",
-          "sub-data": [
+          "subTitle": "Bebek",
+          "subData": [
             "Bebek Takımları",
             "Ayakkabı",
             "Hastane Çıkışı",
@@ -336,8 +336,8 @@
           ]
         },
         {
-          "sub-title": "Kız Çocuk",
-          "sub-data": [
+          "subTitle": "Kız Çocuk",
+          "subData": [
             "Elbise",
             "Sweatshirt",
             "Spor Ayakkabı",
@@ -361,8 +361,8 @@
           ]
         },
         {
-          "sub-title": "Erkek Çocuk",
-          "sub-data": [
+          "subTitle": "Erkek Çocuk",
+          "subData": [
             "Sweatshirt",
             "Spor Ayakkabı",
             "Eşofman",
@@ -386,8 +386,8 @@
           ]
         },
         {
-          "sub-title": "Bebek & Bakım",
-          "sub-data": [
+          "subTitle": "Bebek & Bakım",
+          "subData": [
             "Bebek Bezi",
             "Bebek Şampuanı",
             "Krem & Yağlar",
@@ -403,8 +403,8 @@
           ]
         },
         {
-          "sub-title": "Oyuncak",
-          "sub-data": [
+          "subTitle": "Oyuncak",
+          "subData": [
             "Eğitici Oyuncaklar",
             "Oyuncak Araba",
             "Oyuncak Bebek",
@@ -414,8 +414,8 @@
           ]
         },
         {
-          "sub-title": "Beslenme Emzirme",
-          "sub-data": [
+          "subTitle": "Beslenme Emzirme",
+          "subData": [
             "Biberon & Emzik",
             "Göğüs Pompası",
             "Mama Sandalyesi",
@@ -439,8 +439,8 @@
           ]
         },
         {
-          "sub-title": "Taşıma & Güvenlik",
-          "sub-data": [
+          "subTitle": "Taşıma & Güvenlik",
+          "subData": [
             "Bebek Arabası & Puset",
             "Park Yatak",
             "Ana kucağı",
@@ -453,8 +453,8 @@
           ]
         },
         {
-          "sub-title": "Bebek Odası",
-          "sub-data": [
+          "subTitle": "Bebek Odası",
+          "subData": [
             "Bebek Beşiği",
             "Bebek Yatağı",
             "Bebek Nevresimleri",
@@ -472,8 +472,8 @@
       "title": "Ev & Yaşam",
       "data": [
         {
-          "sub-title": "Sofra & Mutfak",
-          "sub-data": [
+          "subTitle": "Sofra & Mutfak",
+          "subData": [
             "Yemek Takımı",
             "Çatal Kaşık Bıçak Seti",
             "Baharat Takımı",
@@ -487,8 +487,8 @@
           ]
         },
         {
-          "sub-title": "Banyo",
-          "sub-data": [
+          "subTitle": "Banyo",
+          "subData": [
             "Havlu & Havlu Seti",
             "Bornoz",
             "Banyo Seti",
@@ -500,8 +500,8 @@
           ]
         },
         {
-          "sub-title": "Ev Tekstili",
-          "sub-data": [
+          "subTitle": "Ev Tekstili",
+          "subData": [
             "Yatak Odası",
             "Halı & Kilim & Paspas",
             "Perde",
@@ -517,8 +517,8 @@
           ]
         },
         {
-          "sub-title": "Ev Dekorasyon",
-          "sub-data": [
+          "subTitle": "Ev Dekorasyon",
+          "subData": [
             "Dekoratif Aksesuar",
             "Tablo",
             "Duvar Saati",
@@ -528,12 +528,12 @@
           ]
         },
         {
-          "sub-title": "Aydınlatma",
-          "sub-data": ["Avize", "Lambader", "Abajur"]
+          "subTitle": "Aydınlatma",
+          "subData": ["Avize", "Lambader", "Abajur"]
         },
         {
-          "sub-title": "Mobilya",
-          "sub-data": [
+          "subTitle": "Mobilya",
+          "subData": [
             "Salon & Oturma Odası",
             "Yatak Odası",
             "Bahçe Mobilyası",
@@ -552,8 +552,8 @@
           ]
         },
         {
-          "sub-title": "Hobi",
-          "sub-data": [
+          "subTitle": "Hobi",
+          "subData": [
             "Parti Malzemeleri",
             "Müzik Alet ve Ekipmanları",
             "Hediyelik Ürünler",
@@ -566,8 +566,8 @@
           ]
         },
         {
-          "sub-title": "Spor & Outdoor",
-          "sub-data": [
+          "subTitle": "Spor & Outdoor",
+          "subData": [
             "Koşu Bandı",
             "Dubmell & Ağırlık",
             "Pilates ve Yoga",
@@ -580,8 +580,8 @@
           ]
         },
         {
-          "sub-title": "Kitap",
-          "sub-data": [
+          "subTitle": "Kitap",
+          "subData": [
             "Sınav Hazırlık Kitapları",
             "Ders ve Yardımcı Kitaplar",
             "Roman & Edebiyat Kitapları",
@@ -595,8 +595,8 @@
           ]
         },
         {
-          "sub-title": "Kırtasiye",
-          "sub-data": [
+          "subTitle": "Kırtasiye",
+          "subData": [
             "Defter",
             "Ajanda",
             "Fotokopi Kağıdı",
@@ -608,8 +608,8 @@
           ]
         },
         {
-          "sub-title": "Otomobil & Motosiklet",
-          "sub-data": [
+          "subTitle": "Otomobil & Motosiklet",
+          "subData": [
             "Oto Aksesuar",
             "Oto Paspası",
             "Oto Lastik",
@@ -624,8 +624,8 @@
           ]
         },
         {
-          "sub-title": "Yapı Market",
-          "sub-data": [
+          "subTitle": "Yapı Market",
+          "subData": [
             "Banyo Yapı Malzemeleri",
             "Elektrikli El Aleti",
             "Hırdavat Ürünleri",
@@ -641,8 +641,8 @@
       "title": "Süpermarket",
       "data": [
         {
-          "sub-title": "Ev & Temizlik",
-          "sub-data": [
+          "subTitle": "Ev & Temizlik",
+          "subData": [
             "Çamaşır Yıkama",
             "Bulaşık Yıkama",
             "Paspas & Mop",
@@ -658,8 +658,8 @@
           ]
         },
         {
-          "sub-title": "Kişisel Bakım",
-          "sub-data": [
+          "subTitle": "Kişisel Bakım",
+          "subData": [
             "Saç Bakım",
             "Ağda & Epilasyon",
             "Banyo & Duş",
@@ -675,8 +675,8 @@
           ]
         },
         {
-          "sub-title": "Bebek Bakım",
-          "sub-data": [
+          "subTitle": "Bebek Bakım",
+          "subData": [
             "Süt Artırıcı İçecekler",
             "Bebek Ek Besin",
             "Bebek Bezi",
@@ -700,8 +700,8 @@
           ]
         },
         {
-          "sub-title": "Gıda ve İçeçek",
-          "sub-data": [
+          "subTitle": "Gıda ve İçeçek",
+          "subData": [
             "Gıda",
             "Özel Gıda",
             "Atıştırmalık",
@@ -725,8 +725,8 @@
           ]
         },
         {
-          "sub-title": "Atıştırmalık",
-          "sub-data": [
+          "subTitle": "Atıştırmalık",
+          "subData": [
             "Kuru Meyve",
             "Kuruyemiş",
             "Cips",
@@ -742,8 +742,8 @@
           ]
         },
         {
-          "sub-title": "Petshop",
-          "sub-data": [
+          "subTitle": "Petshop",
+          "subData": [
             "Kedi Maması",
             "Kedi Kumu",
             "Köpek Maması",
@@ -772,8 +772,8 @@
       "title": "Kozmetik",
       "data": [
         {
-          "sub-title": "Makyaj",
-          "sub-data": [
+          "subTitle": "Makyaj",
+          "subData": [
             "Göz Makyajı",
             "Ten Makyajı",
             "Dudak Makyajı",
@@ -796,8 +796,8 @@
           ]
         },
         {
-          "sub-title": "Cilt Bakımı",
-          "sub-data": [
+          "subTitle": "Cilt Bakımı",
+          "subData": [
             "Yüz Kremi",
             "Yüz Temizleme",
             "Yüz Maskesi",
@@ -821,8 +821,8 @@
           ]
         },
         {
-          "sub-title": "Saç Bakımı",
-          "sub-data": [
+          "subTitle": "Saç Bakımı",
+          "subData": [
             "Şampuan",
             "Saç Şekillendirici",
             "Saç Serumu & Maskesi",
@@ -846,8 +846,8 @@
           ]
         },
         {
-          "sub-title": "Kişisel Bakım",
-          "sub-data": [
+          "subTitle": "Kişisel Bakım",
+          "subData": [
             "Duş Jelleri",
             "Banyo Sabunları",
             "Şampuan",
@@ -871,8 +871,8 @@
           ]
         },
         {
-          "sub-title": "Parfüm ve Deodorant",
-          "sub-data": [
+          "subTitle": "Parfüm ve Deodorant",
+          "subData": [
             "Parfüm",
             "Parfüm Setleri",
             "Deodorant",
@@ -881,12 +881,12 @@
           ]
         },
         {
-          "sub-title": "Saç Şekillendirici",
-          "sub-data": ["Saç Köpüğü", "Saç Spreyi", "Jöle", "Wax"]
+          "subTitle": "Saç Şekillendirici",
+          "subData": ["Saç Köpüğü", "Saç Spreyi", "Jöle", "Wax"]
         },
         {
-          "sub-title": "Makyaj Aksesuarları",
-          "sub-data": [
+          "subTitle": "Makyaj Aksesuarları",
+          "subData": [
             "Makyaj Fırçaları",
             "Makyaj Süngerleri",
             "Makyaj Çantaları",
@@ -897,8 +897,8 @@
           ]
         },
         {
-          "sub-title": "Epilasyon & Tıraş",
-          "sub-data": [
+          "subTitle": "Epilasyon & Tıraş",
+          "subData": [
             "Tüy Dökücü",
             "Ağda",
             "Tıraş Bıçağı",
@@ -909,8 +909,8 @@
           ]
         },
         {
-          "sub-title": "Genel Bakım",
-          "sub-data": [
+          "subTitle": "Genel Bakım",
+          "subData": [
             "Cinsel Sağlık",
             "Hijyenik Ped",
             "Vücut Bakımı",
@@ -930,8 +930,8 @@
       "title": "Ayakkabı & Çanta",
       "data": [
         {
-          "sub-title": "Kadın",
-          "sub-data": [
+          "subTitle": "Kadın",
+          "subData": [
             "Spor Ayakkabı",
             "Topuklu Ayakkabı",
             "Günlük Ayakkabı",
@@ -953,8 +953,8 @@
           ]
         },
         {
-          "sub-title": "Erkek Ayakkabı",
-          "sub-data": [
+          "subTitle": "Erkek Ayakkabı",
+          "subData": [
             "Spor Ayakkabı",
             "Günlük Ayakkabı",
             "Klasik Ayakkabı",
@@ -978,8 +978,8 @@
           ]
         },
         {
-          "sub-title": "Çocuk Ayakkabı",
-          "sub-data": [
+          "subTitle": "Çocuk Ayakkabı",
+          "subData": [
             "Spor Ayakkabı",
             "Günlük Ayakkabı",
             "Babet",
@@ -994,8 +994,8 @@
           ]
         },
         {
-          "sub-title": "Çocuk Çanta",
-          "sub-data": [
+          "subTitle": "Çocuk Çanta",
+          "subData": [
             "Sırt Çantası",
             "Okul Çantası",
             "Çekçekli Çanta",
@@ -1006,8 +1006,8 @@
           ]
         },
         {
-          "sub-title": "Erkek Aksesuar",
-          "sub-data": [
+          "subTitle": "Erkek Aksesuar",
+          "subData": [
             "Saat",
             "Güneş Gözlüğü",
             "Cüzdan",
@@ -1021,8 +1021,8 @@
           ]
         },
         {
-          "sub-title": "Kadın Aksesuar",
-          "sub-data": [
+          "subTitle": "Kadın Aksesuar",
+          "subData": [
             "Saat",
             "Takı",
             "Şapka",
@@ -1034,8 +1034,8 @@
           ]
         },
         {
-          "sub-title": "Kadın Çanta",
-          "sub-data": [
+          "subTitle": "Kadın Çanta",
+          "subData": [
             "Omuz Çantası",
             "Sırt Çantası",
             "Cüzdan",
@@ -1059,8 +1059,8 @@
           ]
         },
         {
-          "sub-title": "Erkek Çanta",
-          "sub-data": [
+          "subTitle": "Erkek Çanta",
+          "subData": [
             "Sırt Çantası",
             "Postacı Çantası",
             "Cüzdan & Kartlık",
@@ -1078,8 +1078,8 @@
           ]
         },
         {
-          "sub-title": "Lüks & Designer",
-          "sub-data": ["Lüks Çanta", "Lüks Ayakkabı"]
+          "subTitle": "Lüks & Designer",
+          "subData": ["Lüks Çanta", "Lüks Ayakkabı"]
         }
       ]
     },
@@ -1087,8 +1087,8 @@
       "title": "Elektronik",
       "data": [
         {
-          "sub-title": "Küçük Ev Aletleri",
-          "sub-data": [
+          "subTitle": "Küçük Ev Aletleri",
+          "subData": [
             "Süpürge",
             "Robot Süpürge",
             "Dikey Süpürge",
@@ -1104,12 +1104,12 @@
           ]
         },
         {
-          "sub-title": "Giyilebilir Teknoloji",
-          "sub-data": ["Akıllı Saat", "Akıllı Bileklik", "VR Gözlük"]
+          "subTitle": "Giyilebilir Teknoloji",
+          "subData": ["Akıllı Saat", "Akıllı Bileklik", "VR Gözlük"]
         },
         {
-          "sub-title": "Telefon",
-          "sub-data": [
+          "subTitle": "Telefon",
+          "subData": [
             "Cep Telefonu",
             "Android Cep Telefonları",
             "İphone İOS Cep Telefonları",
@@ -1122,8 +1122,8 @@
           ]
         },
         {
-          "sub-title": "Foto & Kamera",
-          "sub-data": [
+          "subTitle": "Foto & Kamera",
+          "subData": [
             "Aksiyon Kamera",
             "Fotoğraf Makinesi",
             "Video Kamera",
@@ -1134,8 +1134,8 @@
           ]
         },
         {
-          "sub-title": "TV & Görüntü & Ses",
-          "sub-data": [
+          "subTitle": "TV & Görüntü & Ses",
+          "subData": [
             "Televizyon",
             "Smart TV",
             "QLED TV",
@@ -1158,8 +1158,8 @@
           ]
         },
         {
-          "sub-title": "Beyaz Eşya",
-          "sub-data": [
+          "subTitle": "Beyaz Eşya",
+          "subData": [
             "Buzdolabı",
             "Çamaşır Makinesi",
             "Bulaşık Makinesi",
@@ -1175,8 +1175,8 @@
           ]
         },
         {
-          "sub-title": "Bilgisayar & Tablet",
-          "sub-data": [
+          "subTitle": "Bilgisayar & Tablet",
+          "subData": [
             "Bilgisayarlar",
             "Tablet",
             "Bilgisayar Bileşenleri",
@@ -1193,8 +1193,8 @@
           ]
         },
         {
-          "sub-title": "Kişisel Bakım Aletleri",
-          "sub-data": [
+          "subTitle": "Kişisel Bakım Aletleri",
+          "subData": [
             "Saç Düzleştirici",
             "Saç Maşası",
             "Saç Kurutma Makinesi",
@@ -1205,8 +1205,8 @@
           ]
         },
         {
-          "sub-title": "Oyunculara Özel",
-          "sub-data": [
+          "subTitle": "Oyunculara Özel",
+          "subData": [
             "Playstation",
             "Xbox",
             "Nintendo",
@@ -1223,8 +1223,8 @@
           ]
         },
         {
-          "sub-title": "Elektronik Aksesuarlar",
-          "sub-data": [
+          "subTitle": "Elektronik Aksesuarlar",
+          "subData": [
             "Bilgisayar Aksesuar",
             "Telefon Aksesuarları",
             "TV Aksesuarları",
@@ -1232,8 +1232,8 @@
           ]
         },
         {
-          "sub-title": "Klima & Isıtıcılar",
-          "sub-data": [
+          "subTitle": "Klima & Isıtıcılar",
+          "subData": [
             "Klima",
             "Kombi",
             "Isıtıcılar",
@@ -1250,8 +1250,8 @@
       "title": "Spor&Outdoor",
       "data": [
         {
-          "sub-title": "Spor Üst Giyim",
-          "Sub-data": [
+          "subTitle": "Spor Üst Giyim",
+          "subData": [
             "Spor Tişört",
             "Ceket & Yelek",
             "Yağmurluk",
@@ -1264,8 +1264,8 @@
           ]
         },
         {
-          "sub-title": "Spor Alt Giyim",
-          "Sub-data": [
+          "subTitle": "Spor Alt Giyim",
+          "subData": [
             "Eşofman Takımı",
             "Tayt",
             "Şort",
@@ -1277,8 +1277,8 @@
           ]
         },
         {
-          "sub-title": "Spor Ayakkabı",
-          "Sub-data": [
+          "subTitle": "Spor Ayakkabı",
+          "subData": [
             "Sneaker",
             "Koşu Ayakkabısı",
             "Halı Saha Ayakkabısı",
@@ -1302,8 +1302,8 @@
           ]
         },
         {
-          "sub-title": "Evde Spor Aletleri",
-          "Sub-data": [
+          "subTitle": "Evde Spor Aletleri",
+          "subData": [
             "Elastik Bant",
             "El Yayı",
             "Mat",
@@ -1324,8 +1324,8 @@
           ]
         },
         {
-          "sub-title": "Spor Malzemeleri",
-          "Sub-data": [
+          "subTitle": "Spor Malzemeleri",
+          "subData": [
             "Deniz & Plaj",
             "Kaykay",
             "Paten",
@@ -1348,8 +1348,8 @@
           ]
         },
         {
-          "sub-title": "Bisiklet",
-          "Sub-data": [
+          "subTitle": "Bisiklet",
+          "subData": [
             "Şehir Bisikleti",
             "Dağ Bisikleti",
             "Katlanabilir Bisiklet",
@@ -1362,8 +1362,8 @@
           ]
         },
         {
-          "sub-title": "Fitness Kondisyon",
-          "Sub-data": [
+          "subTitle": "Fitness Kondisyon",
+          "subData": [
             "Pilates Malzemeleri",
             "Fitness Aletleri",
             "Kondisyon Bisikleti",
@@ -1375,8 +1375,8 @@
           ]
         },
         {
-          "sub-title": "Sporcu Besinleri",
-          "Sub-data": [
+          "subTitle": "Sporcu Besinleri",
+          "subData": [
             "Protein Tozu",
             "Amino Asit",
             "Karbonhidrat",
@@ -1389,8 +1389,8 @@
           ]
         },
         {
-          "sub-title": "Top",
-          "Sub-data": ["Basketbol Topu", "Futbol Topu"]
+          "subTitle": "Top",
+          "subData": ["Basketbol Topu", "Futbol Topu"]
         }
       ]
     },
@@ -1399,7 +1399,7 @@
       "data": []
     },
     {
-      "title": "Çok Satanlar",
+      "title": "Flaş Ürünler",
       "data": []
     }
   ]

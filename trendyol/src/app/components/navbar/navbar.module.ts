@@ -16,9 +16,15 @@ import {
   heroShoppingCartSolid,
 } from '@ng-icons/heroicons/solid';
 import { NavigationComponent } from './navigation/navigation.component';
+import { provideHttpClient, withFetch } from '@angular/common/http';
 
 @NgModule({
-  declarations: [NavbarComponent, TopListComponent, HeaderComponent, NavigationComponent],
+  declarations: [
+    NavbarComponent,
+    TopListComponent,
+    HeaderComponent,
+    NavigationComponent,
+  ],
   imports: [
     CommonModule,
     NgIconsModule.withIcons({
@@ -31,6 +37,8 @@ import { NavigationComponent } from './navigation/navigation.component';
       heroShoppingCartSolid,
     }),
   ],
+  providers: [provideHttpClient(withFetch())],
+
   exports: [NavbarComponent],
 })
 export class NavbarModule {}
