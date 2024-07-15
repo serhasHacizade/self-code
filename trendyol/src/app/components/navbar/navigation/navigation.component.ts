@@ -14,9 +14,7 @@ export class NavigationComponent {
   ngOnInit() {
     this.httpService.getNavigation().subscribe((response) => {
       this.data = response;
-      console.log(this.data);
-    });
-  }
-
-  
+      console.log("bu ana bilgi: ",this.data);
+    });    
+  }  
 }

@@ -1,9 +1,22 @@
-<ul>
-  @for (item of data; track $index) {
-  <li>
-    <a href="{{item.title}}">
+
+  <ul>
+    @for (item of data; track $index) {
+    <li :key="index">
+      <a href="">
         {{ item.title }}
-    </a>
-</li>
-  }
-</ul>
+      </a>
+    </li>
+    }
+  </ul>
+
+<!-- <div>
+  @for (item of data; track $index) { 
+    @for (item of item.data; track $index) {
+      <div class="nav-container">
+        <div style="font-size: 35px">{{ item.subTitle }}</div>
+    @for (item of item.subData; track $index) {
+    <div>{{ item }}</div>
+    }
+  </div>
+  } }
+</div> -->
