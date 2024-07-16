@@ -10,11 +10,6 @@ import {
   heroHeart,
   heroShoppingCart,
 } from '@ng-icons/heroicons/outline';
-import {
-  heroUserSolid,
-  heroHeartSolid,
-  heroShoppingCartSolid,
-} from '@ng-icons/heroicons/solid';
 import { NavigationComponent } from './navigation/navigation.component';
 import { provideHttpClient, withFetch } from '@angular/common/http';
 
@@ -32,9 +27,6 @@ import { provideHttpClient, withFetch } from '@angular/common/http';
       heroUser,
       heroHeart,
       heroShoppingCart,
-      heroUserSolid,
-      heroHeartSolid,
-      heroShoppingCartSolid,
     }),
   ],
   providers: [provideHttpClient(withFetch())],
