@@ -35,6 +35,9 @@ importers:
       '@ng-bootstrap/ng-bootstrap':
         specifier: 17.0.0
         version: 17.0.0(@angular/common@18.0.6(@angular/core@18.0.6(rxjs@7.8.1)(zone.js@0.14.7))(rxjs@7.8.1))(@angular/core@18.0.6(rxjs@7.8.1)(zone.js@0.14.7))(@angular/forms@18.0.6(@angular/common@18.0.6(@angular/core@18.0.6(rxjs@7.8.1)(zone.js@0.14.7))(rxjs@7.8.1))(@angular/core@18.0.6(rxjs@7.8.1)(zone.js@0.14.7))(@angular/platform-browser@18.0.6(@angular/animations@18.0.6(@angular/core@18.0.6(rxjs@7.8.1)(zone.js@0.14.7)))(@angular/common@18.0.6(@angular/core@18.0.6(rxjs@7.8.1)(zone.js@0.14.7))(rxjs@7.8.1))(@angular/core@18.0.6(rxjs@7.8.1)(zone.js@0.14.7)))(rxjs@7.8.1))(@angular/localize@18.0.6(@angular/compiler-cli@18.0.6(@angular/compiler@18.0.6(@angular/core@18.0.6(rxjs@7.8.1)(zone.js@0.14.7)))(typescript@5.4.5))(@angular/compiler@18.0.6(@angular/core@18.0.6(rxjs@7.8.1)(zone.js@0.14.7))))(@popperjs/core@2.11.8)(rxjs@7.8.1)
+      '@ng-icons/bootstrap-icons':
+        specifier: ^29.0.0
+        version: 29.0.0
       '@ng-icons/core':
         specifier: ^28.1.0
         version: 28.1.0
@@ -1294,6 +1297,9 @@ packages:
       '@angular/localize': ^18.0.0
       '@popperjs/core': ^2.11.8
       rxjs: ^6.5.3 || ^7.4.0
+
+  '@ng-icons/bootstrap-icons@29.0.0':
+    resolution: {integrity: sha512-3l+8642dsUqfrq5f0+ozlmB0zmWT39RxR1427dwsFwATav0aGHUGL6KcXyI3rVmYofOpjJomjaqFriBSU8XPYQ==}
 
   '@ng-icons/core@28.1.0':
     resolution: {integrity: sha512-Wu4jAKJUOgefkVX0X2qfh7aNx483vF0WT15QZW606iWaMzTuwjvQcS8BUAsQP/OyDjgW+bFmoIALJ7CwsSNa/w==}
@@ -5631,6 +5637,10 @@ snapshots:
       '@angular/localize': 18.0.6(@angular/compiler-cli@18.0.6(@angular/compiler@18.0.6(@angular/core@18.0.6(rxjs@7.8.1)(zone.js@0.14.7)))(typescript@5.4.5))(@angular/compiler@18.0.6(@angular/core@18.0.6(rxjs@7.8.1)(zone.js@0.14.7)))
       '@popperjs/core': 2.11.8
       rxjs: 7.8.1
+      tslib: 2.6.3
+
+  '@ng-icons/bootstrap-icons@29.0.0':
+    dependencies:
       tslib: 2.6.3
 
   '@ng-icons/core@28.1.0':
