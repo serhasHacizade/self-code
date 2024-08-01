@@ -1,22 +1,20 @@
+<ul>
+  <li *ngFor="let item of data; let i = index"
+      (mouseover)="onMouseOver(i)"
+      (mouseleave)="onMouseLeave()">
+    <a href="">{{ item.title }}</a>
+  </li>
+</ul>
 
-  <ul>
-    @for (item of data; track $index) {
-    <li :key="index">
-      <a href="">
-        {{ item.title }}
-      </a>
-    </li>
-    }
-  </ul>
-
-<!-- <div>
-  @for (item of data; track $index) { 
-    @for (item of item.data; track $index) {
-      <div class="nav-container">
-        <div style="font-size: 35px">{{ item.subTitle }}</div>
-    @for (item of item.subData; track $index) {
-    <div>{{ item }}</div>
-    }
+<div class="hover-container" id="hover-container">
+  <div *ngIf="hoveredIndex !== null" class="nav">
+    <div *ngFor="let subItem of data[hoveredIndex]?.data; let j = index">
+      <div class="link-container">
+        <div style="font-size: 35px">{{ subItem.subTitle }}</div>
+        <div *ngFor="let subDataItem of subItem.subData; let k = index">
+          <div>{{ subDataItem }}</div>
+        </div>
+      </div>
+    </div>
   </div>
-  } }
-</div> -->
+</div>
